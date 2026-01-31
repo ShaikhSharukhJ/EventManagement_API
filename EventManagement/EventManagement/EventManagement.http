@@ -1,0 +1,6 @@
+@EventManagement_HostAddress = http://localhost:5229
+
+GET {{EventManagement_HostAddress}}/swagger/v1/swagger.json
+Accept: application/json
+
+###
